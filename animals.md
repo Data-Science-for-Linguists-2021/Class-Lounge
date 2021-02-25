@@ -7,6 +7,8 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - Eagle
 - Dog
 - Liger
+- Manatee
+- fish
+- Manatee
 - Red panda
 - Pangolin
-- Manatee
