@@ -12,8 +12,8 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - Emperor Penguins
 - Meerkats
 - Manatee
-- penguin
 - fish
 - Manatee
 - Red panda
 - Pangolin
+- seal
