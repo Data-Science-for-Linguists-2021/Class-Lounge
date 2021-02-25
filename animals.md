@@ -7,7 +7,7 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - Eagle
 - Dog
 - Liger
--Emperor Penguins
+- Emperor Penguins
 - Manatee
 - fish
 - Manatee
