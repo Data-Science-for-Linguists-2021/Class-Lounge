@@ -9,3 +9,7 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - Liger
 - Manatee
 - penguin
+- fish
+- Manatee
+- Red panda
+- Pangolin
