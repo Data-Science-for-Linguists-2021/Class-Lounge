@@ -11,6 +11,7 @@
 | [The British National Corpus](http://www.natcorp.ox.ac.uk/) | online or purchase | 100 million word collection of samples of written and spoken language from multiple sources, designed to represent a wide cross-section of British English from the late 20th century |
 | [BNC Baby](http://www.natcorp.ox.ac.uk/corpus/babyinfo.html) | purchase | "Baby" version of the BNC. Contains BNC sampler and Brown corpus. |
 | [Southern Oral History Program](https://sohp.org/) | online | 6,000+ interviews with American Southerners available as audio, transcript, or both.|
+| [International Corpus of English](http://ice-corpora.net/ice/index.html) | online | Multiple corpora representing different varieties of English. Each ICE corpus consists of one million words of spoken and written English produced after 1989. |
 
 ## Additional corpora
 
