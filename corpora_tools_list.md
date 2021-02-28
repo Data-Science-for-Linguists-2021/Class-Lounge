@@ -17,3 +17,4 @@
 | Name/link | Access | Summary |
 | --------- | :-----------: | ------- |
 | [The Corpus of Electronic Texts](https://celt.ucc.ie/) | online | Contains Texts from as early as the 400s AD, originals in translated English from the original Irish, French, Middle English, Latin, Italian, Spanish, and German. Originals also available.  Total of 19 million words in 1638 documents from many topics |
+| [Github Issues Corpus](https://www.kaggle.com/davidshinn/github-issues) | online | Titles, descriptions and metadata for more than 8 million issues (like bug reports but for GitHub repositories) created on GitHub in 2017. |
