@@ -11,6 +11,7 @@
 | [The British National Corpus](http://www.natcorp.ox.ac.uk/) | online or purchase | 100 million word collection of samples of written and spoken language from multiple sources, designed to represent a wide cross-section of British English from the late 20th century |
 | [BNC Baby](http://www.natcorp.ox.ac.uk/corpus/babyinfo.html) | purchase | "Baby" version of the BNC. Contains BNC sampler and Brown corpus. |
 | [Southern Oral History Program](https://sohp.org/) | online | 6,000+ interviews with American Southerners available as audio, transcript, or both.|
+| [The Michigan Corpus of Academic Spoken English](https://quod.lib.umich.edu/cgi/c/corpus/) | online | The corpus consists of transcripts of close to 200 hours of spoken recordings, which totals into around 1.8 million words. The length of the recordings average between 17 to 178 minutes with word counts ranging from ~3,000 to ~30,000. The web interface allows for searching and browsing through the 152 different transcripts. |
 
 ## Additional corpora
 
@@ -18,3 +19,4 @@
 | --------- | :-----------: | ------- |
 | [The Corpus of Electronic Texts](https://celt.ucc.ie/) | online | Contains Texts from as early as the 400s AD, originals in translated English from the original Irish, French, Middle English, Latin, Italian, Spanish, and German. Originals also available.  Total of 19 million words in 1638 documents from many topics |
 | [Github Issues Corpus](https://www.kaggle.com/davidshinn/github-issues) | online | Titles, descriptions and metadata for more than 8 million issues (like bug reports but for GitHub repositories) created on GitHub in 2017. |
+| [European Parliament Proceedings Parallel Corpus 1996-2011](http://www.statmt.org/europarl/) | downloadable | This corpus is extracted from proceedings of the European Parliament. It includes 21 EU languages and was created for the purpose of machine translation. The documents include information about the speaker language. |
