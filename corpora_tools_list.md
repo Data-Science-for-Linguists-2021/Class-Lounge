@@ -24,3 +24,4 @@
 | [Github Issues Corpus](https://www.kaggle.com/davidshinn/github-issues) | online | Titles, descriptions and metadata for more than 8 million issues (like bug reports but for GitHub repositories) created on GitHub in 2017. |
 | [European Parliament Proceedings Parallel Corpus 1996-2011](http://www.statmt.org/europarl/) | downloadable | This corpus is extracted from proceedings of the European Parliament. It includes 21 EU languages and was created for the purpose of machine translation. The documents include information about the speaker language. |
 | [German Reference Corpus](https://www1.ids-mannheim.de/kl/projekte/korpora/) | online | DeReKo consists of over 50 million words of contemporary German language text as of 2020 and is one of the largest German language corpora |
+| [The Wikipedia Corpus](https://www.english-corpora.org/wiki/) | online | Contains the full text of wikipedia, over 1.9 billion words |
