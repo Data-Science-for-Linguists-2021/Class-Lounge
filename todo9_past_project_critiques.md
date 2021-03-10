@@ -47,7 +47,7 @@
 	- Strength: Saved a lot of time and effort by choosing a project based on an already-made dataset.
 	- Possible imporvement: Seemed to lose track of the goal somewhere along the line.  Final report is disorganized and doesn't really contain any useful analysis.
 	- One thing I learned: Using a specific question to be answered and basing the data compilation/analysis around that will make the project much easier.  
-- Project 2: [Gendered-Interaction-Online](https://github.com/Data-Science-for-Linguists-2019/Gendered-Interaction-Online)
+- Project 2: [Gendered-Interaction-Online](https://github.com/Data-Science-for-Linguists-2019/Gendered-Interaction-Online) by Katie Thomas (2019)
 	- Strength: Final report was extremely good and easy to follow - contained meaningful and well-explained analysis.
 	- Weakness: No explanation of what the data is - I have to guess that the "Congress" section is facebook responses to posts from Congress members, but she never really clarifies.
 	- One thing I learned: Don't be afraid to drop a few goals if they just don't work out (she dropped "hedging" comparison), and the results will still be interesting.
