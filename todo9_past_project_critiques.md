@@ -29,4 +29,10 @@
 - Project 1: [Smoking Gun Classification](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification) by Sean Steinle
   - Strength: Lots of good graphs. Does a good job managing such a large and complicated dataset.
   - Possible improvement: Graphs often lack titles. This can get especially confusing when there are 2-or-more similar graphs right next to each other.
-  - One thing I learned: K-means clustering is a useful technique for classifying continuous, unlabeled data. It can be used with TF-IDF values to classify an unlabeled set of linguistic data. The elbow method can be used to determine the optimal number of clusters. 
+  - One thing I learned: K-means clustering is a useful technique for classifying continuous, unlabeled data. It can be used with TF-IDF values to classify an unlabeled set of linguistic data. The elbow method can be used to determine the optimal number of clusters.
+
+  ## Emily
+- Project 1: [Russian Rhyme](https://github.com/Data-Science-for-Linguists-2019/russian_rhyme) by David Birnbaum
+  - Strength: Very well documented with a lot of useful explanations about what he did and why; the notebooks are easy to follow and very informative.
+  - Possible improvement: There was an awful lot in the repo and I noticed some duplicates/things that could have been condensed to make the overall project easier to follow.
+  - One thing I learned: Wow teaching computer rhymes is a complicated process! I learned about finding consonant clusters, syllable structure and many other features necessary to do ML on rhyme.
