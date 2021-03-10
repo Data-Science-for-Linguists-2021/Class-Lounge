@@ -36,3 +36,8 @@
   - Strength: Very well documented with a lot of useful explanations about what he did and why; the notebooks are easy to follow and very informative.
   - Possible improvement: There was an awful lot in the repo and I noticed some duplicates/things that could have been condensed to make the overall project easier to follow.
   - One thing I learned: Wow teaching computer rhymes is a complicated process! I learned about finding consonant clusters, syllable structure and many other features necessary to do ML on rhyme.
+
+- Project 2: [Twitter Positivity Analysis](https://github.com/Data-Science-for-Linguists-2020/Twitter-Positivity-Analysis) by Natasha Kamtekar
+ - Strength: She did a  good job documenting her progress as things changed and found new ways to get the data she needed (I can relate!). I also liked the use of word clouds to illustrate her findings.
+ - Possible improvement: My critique, and she said it herself in the conclusion, would be that the analysis was good but probably could have been a bit more in depth.
+ - One thing I learned: How to work around challenges that may arise in gathering the data, and also to save enough time for in depth analysis.
