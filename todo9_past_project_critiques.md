@@ -24,3 +24,9 @@
   - Strength: They had a clear hypothesis and goal in mind while analyzing their data. Their presentation was consistent the entire document (hypothesis -> analysis -> conclusion).
   - Possible improvement: More comments in their jupyter notebook file of their analysis would have been helpful while looking through that.
   - One thing I learned: Once again, their repository gave me a good idea for how to organize my project.
+
+## Michael
+- Project 1: [Smoking Gun Classification](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification) by Sean Steinle
+  - Strength: Lots of good graphs. Does a good job managing such a large and complicated dataset.
+  - Possible improvement: Graphs often lack titles. This can get especially confusing when there are 2-or-more similar graphs right next to each other.
+  - One thing I learned: K-means clustering is a useful technique for classifying continuous, unlabeled data. It can be used with TF-IDF values to classify an unlabeled set of linguistic data. The elbow method can be used to determine the optimal number of clusters. 
