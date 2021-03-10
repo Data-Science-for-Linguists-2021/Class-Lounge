@@ -53,4 +53,7 @@
 	- One thing I learned: Don't be afraid to drop a few goals if they just don't work out (she dropped "hedging" comparison), and the results will still be interesting.
 
 ## Sonia
-- Just a test to see if my name appears
+- Project 1: [Smoking Gun Classification](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification) by Sean Steinle
+  - Strength: Plenty of text and analysis to talk the audience/reader though the process
+  - Possible improvement: I might have made clearer where the *code* or body of the project is located. It seems to be in the progress report notebooks.
+  - One thing I learned: todo..
