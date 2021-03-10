@@ -55,5 +55,6 @@
 ## Sonia
 - Project 1: [Smoking Gun Classification](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification) by Sean Steinle
   - Strength: Plenty of text and analysis to talk the audience/reader though the process
-  - Possible improvement: I might have made clearer where the *code* or body of the project is located. It seems to be in the progress report notebooks.
-  - One thing I learned: todo..
+  - Possible improvement: I might have made clearer where the *code* or body of the project is located. It seems to be in the progress report notebooks. Maybe it's me misunderstanding something or how assignment requirements were laid out, but I would think to have files named things like `data-gather.ipynb`, `data-clean.ipynb`, `data-analyse.ipynb` (or `.py`) and then progress report files or notebooks on top of that.
+  - One thing I learned: There's an `email` library with classes like `email.parser.Parser()` for parsing MIME email formats
+- Project 2: ...
