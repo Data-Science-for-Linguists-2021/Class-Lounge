@@ -51,3 +51,6 @@
 	- Strength: Final report was extremely good and easy to follow - contained meaningful and well-explained analysis.
 	- Weakness: No explanation of what the data is - I have to guess that the "Congress" section is facebook responses to posts from Congress members, but she never really clarifies.
 	- One thing I learned: Don't be afraid to drop a few goals if they just don't work out (she dropped "hedging" comparison), and the results will still be interesting.
+
+## Sonia
+- Just a test to see if my name appears
