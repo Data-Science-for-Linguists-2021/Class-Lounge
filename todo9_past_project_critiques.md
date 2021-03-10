@@ -41,3 +41,13 @@
   - Strength: She did a  good job documenting her progress as things changed and found new ways to get the data she needed (I can relate!). I also liked the use of word clouds to illustrate her findings.
   - Possible improvement: My critique, and she said it herself in the conclusion, would be that the analysis was good but probably could have been a bit more in depth.
   - One thing I learned: How to work around challenges that may arise in gathering the data, and also to save enough time for in depth analysis.
+
+## Abby
+- Project 1: [Reddit-Comment-Analysis](https://github.com/Data-Science-for-Linguists-2019/Reddit-Comment-Analysis) by Matthew Borbonus (2019)
+	- Strength: Saved a lot of time and effort by choosing a project based on an already-made dataset.
+	- Possible imporvement: Seemed to lose track of the goal somewhere along the line.  Final report is disorganized and doesn't really contain any useful analysis.
+	- One thing I learned: Using a specific question to be answered and basing the data compilation/analysis around that will make the project much easier.  
+- Project 2: [Gendered-Interaction-Online](https://github.com/Data-Science-for-Linguists-2019/Gendered-Interaction-Online)
+	- Strength: Final report was extremely good and easy to follow - contained meaningful and well-explained analysis.
+	- Weakness: No explanation of what the data is - I have to guess that the "Congress" section is facebook responses to posts from Congress members, but she never really clarifies.
+	- One thing I learned: Don't be afraid to drop a few goals if they just don't work out (she dropped "hedging" comparison), and the results will still be interesting.
