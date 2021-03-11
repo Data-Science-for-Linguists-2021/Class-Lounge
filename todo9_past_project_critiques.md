@@ -73,22 +73,16 @@
 	- Improvement: Could have gone into much more depth, as they said in their plans for the future it would be a good idea to test for significance. They could also have included many more languages without that much effort.
 	- Learned: I learned that Arabic doesn't have an indefinite article
 - Project 2:
-<<<<<<< HEAD
-	- Strength:
-	- Improvement:
-	- Learned:
+- Strength: Great web scraping work, especially for the scale and heterogeneity of the data. Analyzing polarity was also an interesting concept, especially broken down by astrological sign
+- Improvement: Since there was some sparseness in the ages of the users, maybe a system of boxes would have worked better
+- Learned: I learned that using web archives to scrape data from ancient history (2004) is possible. That might come in handy in the future.
 
 ## Lexy
-- Project 1: [Animated-Movie-Gendered-Dialogue] (https://github.com/Data-Science-for-Linguists-2019/Animated-Movie-Gendered-Dialogue) by Cassie Maz (2019)
+- Project 1: [Animated-Movie-Gendered-Dialogue](https://github.com/Data-Science-for-Linguists-2019/Animated-Movie-Gendered-Dialogue) by Cassie Maz (2019)
   - Strength: The presentation of the data was very easy to follow, organized, and meticulous with detail. There was also a lot of data that was included in this project and not just from Disney, but also included Dreamworks which some people may not think of looking at. I'm glad the researcher listed `old_code` so that other people trying to reproduce or potentially add to the code could see when they may have fallen into so the new research would not make those same mistakes.
   - Improvement: I may have looked to see if looking at the script of Wreck It Ralph and Wreck It Ralph: Ralph Breaks The Internet would influence the data. The second movie gets pretty meta when it comes to the Disney Princesses and their stereotypes. I would like to see if there were any changes from how their characters originally aligned with the features and where they were now, if there is any change.
   - Learned: I learned that you can Web scrape movie scripts. I think that is really cool.
-- Project 2: [Blog-Sentiment-Analysis] (https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis) by Eva Bacas (2019)
+- Project 2: [Blog-Sentiment-Analysis](https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis) by Eva Bacas (2019)
   - Strength: Their presentation was also very clear. Having the file names look like code to further separate it from the prose is very helpful. They also separated out what was *About the Project* and what was *Jupyter Notebook Files*. Giving short blurbs about what each of the progress reports contain.
   - Improvement: I might have included some images in the presentation itself so people wouldn't have to click through each file or the file directory to see the findings. Also, I do not see a summary of the full findings on the main page and that would be helpful for anyone doing a quick browse to see what happened in the data, instead of reading through each of the blurbs about the progress reports.
   - Learned: I learned that a mixed effects regression model didn't work or find anything significant with the data. I do not know what this is necessarily but I figured since it is said to be better than ANOVA for what the researcher was looking into, it would work.
-=======
-	- Strength: Great web scraping work, especially for the scale and heterogeneity of the data. Analyzing polarity was also an interesting concept, especially broken down by astrological sign
-	- Improvement: Since there was some sparseness in the ages of the users, maybe a system of boxes would have worked better 
-	- Learned: I learned that using web archives to scrape data from ancient history (2004) is possible. That might come in handy in the future.
->>>>>>> bafa5ed69df1faeb018fd5e90856e801ca81fc83
