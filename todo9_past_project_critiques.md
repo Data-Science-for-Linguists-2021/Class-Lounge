@@ -68,10 +68,10 @@
   - One thing I learned: I hadn't seen Gensim's LDA (latent Dirichlet analysis) or LSA (latent sentiment analysis) models before, it was good to see them in action
 
 ## Jordan
-- Project 1:
-	- Strength:
-	- Improvement:
-	- Learned:
+- Project 1: [ESL-Article-Acquisition](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition)
+	- Strength: Good use of visualizations, this project also has interesting applications for ESL education.
+	- Improvement: Could have gone into much more depth, as they said in their plans for the future it would be a good idea to test for significance. They could also have included many more languages without that much effort.
+	- Learned: I learned that Arabic doesn't have an indefinite article
 - Project 2:
 	- Strength:
 	- Improvement:
