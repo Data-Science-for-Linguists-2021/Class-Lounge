@@ -66,3 +66,13 @@
   - Strength: The project had a very clean and easy-to-understand structure to it and it was smart to save intermediate stages like the gensim models and the cleaned text pickles. Also good that he tried two different types of models and different settings for the models.
   - Possible improvement: It wasn't quite clear to me why he had a separate file to create sentiment analysis models for each news source - if they're scripts, why not specify the specific news source as a command line argument? Maybe there was something different going on in each script, but I wouldn't have thought so and wish this could have been explained.
   - One thing I learned: I hadn't seen Gensim's LDA (latent Dirichlet analysis) or LSA (latent sentiment analysis) models before, it was good to see them in action
+
+## Jordan
+- Project 1:
+	- Strength:
+	- Improvement:
+	- Learned:
+- Project 2:
+	- Strength:
+	- Improvement:
+	- Learned:
