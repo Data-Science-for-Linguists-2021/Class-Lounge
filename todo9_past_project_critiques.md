@@ -32,9 +32,9 @@
   - One thing I learned: K-means clustering is a useful technique for classifying continuous, unlabeled data. It can be used with TF-IDF values to classify an unlabeled set of linguistic data. The elbow method can be used to determine the optimal number of clusters.
 
 - Project 2: [Analysis of Japanese Loanwords](https://github.com/Data-Science-for-Linguists-2020/Analysis-of-Japanese-Loanwords) by Lindsey Rojtas
- - Strength: Very detailed, informative notebook. Great statistical analysis, manipulation of data/categories. 
- - Possible improvement: Would have been nice to see some discussion of T-tests or ANoVAs. 
- - One thing I learned: Seaborn objects have a simple .savefig('FILEPATH') method for saving plots without using python's I/O functions.
+  - Strength: Very detailed, informative notebook. Great statistical analysis, manipulation of data/categories. 
+  - Possible improvement: Would have been nice to see some discussion of T-tests or ANoVAs. 
+  - One thing I learned: Seaborn objects have a simple .savefig('FILEPATH') method for saving plots without using python's I/O functions.
 
 ## Emily
 - Project 1: [Russian Rhyme](https://github.com/Data-Science-for-Linguists-2019/russian_rhyme) by David Birnbaum
