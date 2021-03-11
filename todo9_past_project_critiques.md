@@ -68,11 +68,12 @@
   - One thing I learned: I hadn't seen Gensim's LDA (latent Dirichlet analysis) or LSA (latent sentiment analysis) models before, it was good to see them in action
 
 ## Jordan
-- Project 1:
-	- Strength:
-	- Improvement:
-	- Learned:
+- Project 1: [ESL-Article-Acquisition](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition)
+	- Strength: Good use of visualizations, this project also has interesting applications for ESL education.
+	- Improvement: Could have gone into much more depth, as they said in their plans for the future it would be a good idea to test for significance. They could also have included many more languages without that much effort.
+	- Learned: I learned that Arabic doesn't have an indefinite article
 - Project 2:
+<<<<<<< HEAD
 	- Strength:
 	- Improvement:
 	- Learned:
@@ -86,3 +87,8 @@
   - Strength: Their presentation was also very clear. Having the file names look like code to further separate it from the prose is very helpful. They also separated out what was *About the Project* and what was *Jupyter Notebook Files*. Giving short blurbs about what each of the progress reports contain.
   - Improvement: I might have included some images in the presentation itself so people wouldn't have to click through each file or the file directory to see the findings. Also, I do not see a summary of the full findings on the main page and that would be helpful for anyone doing a quick browse to see what happened in the data, instead of reading through each of the blurbs about the progress reports.
   - Learned: I learned that a mixed effects regression model didn't work or find anything significant with the data. I do not know what this is necessarily but I figured since it is said to be better than ANOVA for what the researcher was looking into, it would work.
+=======
+	- Strength: Great web scraping work, especially for the scale and heterogeneity of the data. Analyzing polarity was also an interesting concept, especially broken down by astrological sign
+	- Improvement: Since there was some sparseness in the ages of the users, maybe a system of boxes would have worked better 
+	- Learned: I learned that using web archives to scrape data from ancient history (2004) is possible. That might come in handy in the future.
+>>>>>>> bafa5ed69df1faeb018fd5e90856e801ca81fc83
