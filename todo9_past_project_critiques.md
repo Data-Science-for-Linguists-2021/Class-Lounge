@@ -57,4 +57,7 @@
   - Strength: Plenty of text and analysis to talk the audience/reader though the process
   - Possible improvement: I might have made clearer where the *code* or body of the project is located. It seems to be in the progress report notebooks. Maybe it's me misunderstanding something or how assignment requirements were laid out, but I would think to have files named things like `data-gather.ipynb`, `data-clean.ipynb`, `data-analyse.ipynb` (or `.py`) and then progress report files or notebooks on top of that.
   - One thing I learned: There's an `email` library with classes like `email.parser.Parser()` for parsing MIME email formats
-- Project 2: ...
+- Project 2: [Sentiment Analysis of Russian-Language News](https://github.com/Data-Science-for-Linguists-2019/Sentiment-Analysis-of-Russian-Language-News/tree/master/code) by Patrick Stoyer
+  - Strength
+  - Possible improvement
+  - One thing I learned
