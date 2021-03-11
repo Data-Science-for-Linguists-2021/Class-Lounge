@@ -32,8 +32,8 @@
   - One thing I learned: K-means clustering is a useful technique for classifying continuous, unlabeled data. It can be used with TF-IDF values to classify an unlabeled set of linguistic data. The elbow method can be used to determine the optimal number of clusters.
 
 - Project 2: [Analysis of Japanese Loanwords](https://github.com/Data-Science-for-Linguists-2020/Analysis-of-Japanese-Loanwords) by Lindsey Rojtas
-  - Strength: Very detailed, informative notebook. Great statistical analysis, manipulation of data/categories. 
-  - Possible improvement: Would have been nice to see some discussion of T-tests or ANoVAs. 
+  - Strength: Very detailed, informative notebook. Great statistical analysis, manipulation of data/categories.
+  - Possible improvement: Would have been nice to see some discussion of T-tests or ANoVAs.
   - One thing I learned: Seaborn objects have a simple .savefig('FILEPATH') method for saving plots without using python's I/O functions.
 
 ## Emily
@@ -76,3 +76,13 @@
 	- Strength:
 	- Improvement:
 	- Learned:
+
+## Lexy
+- Project 1: [Animated-Movie-Gendered-Dialogue] (https://github.com/Data-Science-for-Linguists-2019/Animated-Movie-Gendered-Dialogue) by Cassie Maz (2019)
+  - Strength: The presentation of the data was very easy to follow, organized, and meticulous with detail. There was also a lot of data that was included in this project and not just from Disney, but also included Dreamworks which some people may not think of looking at. I'm glad the researcher listed `old_code` so that other people trying to reproduce or potentially add to the code could see when they may have fallen into so the new research would not make those same mistakes.
+  - Improvement: I may have looked to see if looking at the script of Wreck It Ralph and Wreck It Ralph: Ralph Breaks The Internet would influence the data. The second movie gets pretty meta when it comes to the Disney Princesses and their stereotypes. I would like to see if there were any changes from how their characters originally aligned with the features and where they were now, if there is any change.
+  - Learned: I learned that you can Web scrape movie scripts. I think that is really cool.
+- Project 2: [Blog-Sentiment-Analysis] (https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis) by Eva Bacas (2019)
+  - Strength: Their presentation was also very clear. Having the file names look like code to further separate it from the prose is very helpful. They also separated out what was *About the Project* and what was *Jupyter Notebook Files*. Giving short blurbs about what each of the progress reports contain.
+  - Improvement: I might have included some images in the presentation itself so people wouldn't have to click through each file or the file directory to see the findings. Also, I do not see a summary of the full findings on the main page and that would be helpful for anyone doing a quick browse to see what happened in the data, instead of reading through each of the blurbs about the progress reports.
+  - Learned: I learned that a mixed effects regression model didn't work or find anything significant with the data. I do not know what this is necessarily but I figured since it is said to be better than ANOVA for what the researcher was looking into, it would work.
