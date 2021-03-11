@@ -9,11 +9,14 @@
 - Project 2: some other project   
 
 ## Frances
-- [Spell Checker Project](https://github.com/Data-Science-for-Linguists-2019/Spell-Checker)
+- Project 1: [Spell Checker Project](https://github.com/Data-Science-for-Linguists-2019/Spell-Checker) by Ting-Wei Shen
   - Strength: This was an ambitious project with complicated code and a lot of data.
   - Possible improvement: The code is in a bunch of different files.
-  -One thing I learned: [This](http://norvig.com/spell-correct.html) spell-checker model by Peter Norvig was a super interesting thing to include and provides a way for anyone looking at this project to get an idea of how to build their own spell-checker.
-
+  - One thing I learned: [This](http://norvig.com/spell-correct.html) spell-checker model by Peter Norvig was a super interesting thing to include and provides a way for anyone looking at this project to get an idea of how to build their own spell-checker.
+- Project 2: [Diminutive Suffix Productivity](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity) by Juan Berríos
+  - Strength: This project analyzed language from many different dialects of Spanish. Also the goal was very Lingustics oriented.
+  - Possible improvement: The samples from each country were different sizes, so the conclusions could be skewed based on frequency in one dialect over another.
+  - One thing I learned: I didn't realize that "statistical measure of productivity" was something that could be looked at in a case like this (diminutive suffixes).  
 ## Emma
 - Project 1: [Arabic Learner Corpus Considerations](https://github.com/Data-Science-for-Linguists-2020/Arabic-Learner-Corpus-Considerations/blob/master/final_report.md) by Anthony Verardi
   - Strength: The researcher had a lot of familiarity with the topic and was also flexible in their approach/research question. They also focused on addressing the challenges that might have arisen when trying to use the ALC for classifying text.
