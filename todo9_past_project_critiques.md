@@ -73,6 +73,6 @@
 	- Improvement: Could have gone into much more depth, as they said in their plans for the future it would be a good idea to test for significance. They could also have included many more languages without that much effort.
 	- Learned: I learned that Arabic doesn't have an indefinite article
 - Project 2:
-	- Strength:
-	- Improvement:
-	- Learned:
+	- Strength: Great web scraping work, especially for the scale and heterogeneity of the data. Analyzing polarity was also an interesting concept, especially broken down by astrological sign
+	- Improvement: Since there was some sparseness in the ages of the users, maybe a system of boxes would have worked better 
+	- Learned: I learned that using web archives to scrape data from ancient history (2004) is possible. That might come in handy in the future.
