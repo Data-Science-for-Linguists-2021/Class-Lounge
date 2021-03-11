@@ -54,10 +54,10 @@
 
 ## Sonia
 - Project 1: [Smoking Gun Classification](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification) by Sean Steinle
-  - Strength: Plenty of text and analysis to talk the audience/reader though the process
+  - Strength: Plenty of text and analysis to talk the audience/reader though the process.
   - Possible improvement: I might have made clearer where the *code* or body of the project is located. It seems to be in the progress report notebooks. Maybe it's me misunderstanding something or how assignment requirements were laid out, but I would think to have files named things like `data-gather.ipynb`, `data-clean.ipynb`, `data-analyse.ipynb` (or `.py`) and then progress report files or notebooks on top of that.
   - One thing I learned: There's an `email` library with classes like `email.parser.Parser()` for parsing MIME email formats
 - Project 2: [Sentiment Analysis of Russian-Language News](https://github.com/Data-Science-for-Linguists-2019/Sentiment-Analysis-of-Russian-Language-News/tree/master/code) by Patrick Stoyer
-  - Strength
-  - Possible improvement
-  - One thing I learned
+  - Strength: The project had a very clean and easy-to-understand structure to it and it was smart to save intermediate stages like the gensim models and the cleaned text pickles. Also good that he tried two different types of models and different settings for the models.
+  - Possible improvement: It wasn't quite clear to me why he had a separate file to create sentiment analysis models for each news source - if they're scripts, why not specify the specific news source as a command line argument? Maybe there was something different going on in each script, but I wouldn't have thought so and wish this could have been explained.
+  - One thing I learned: I hadn't seen Gensim's LDA (latent Dirichlet analysis) or LSA (latent sentiment analysis) models before, it was good to see them in action
