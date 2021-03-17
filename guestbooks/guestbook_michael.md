@@ -1,5 +1,4 @@
 ## Michael Barmada's Project Guestbook:
-
 # [Goodreads Sentiment Analysis](https://github.com/Data-Science-for-Linguists-2021/Goodreads-Sentiment-Analysis)
 
 ### Ahoy! Welcome to my term-project guestbook. Feel free to have a look at my code and leave a brief review. 
