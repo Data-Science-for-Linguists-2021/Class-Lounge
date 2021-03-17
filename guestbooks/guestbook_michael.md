@@ -1,9 +1,9 @@
+## Michael Barmada's Project Guestbook:
+
 # [Goodreads Sentiment Analysis](https://github.com/Data-Science-for-Linguists-2021/Goodreads-Sentiment-Analysis)
-## Michael Barmada
----
-## Ahoy! Welcome to my term project guestbook.
-### Feel free to have a look at my code and leave a brief review. 
----
+
+### Ahoy! Welcome to my term-project guestbook. Feel free to have a look at my code and leave a brief review. 
+
 ### visit (Frances):
  - One strength is your code. It is very neat and easy to follow along with, as well as effective considering your data output.
  - One thing to improve is scraping reviews from more books. 
