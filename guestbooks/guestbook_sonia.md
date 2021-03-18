@@ -8,7 +8,7 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
  - One thing that I noticed that you might need to improve was the disparity in your data sizes between languages. I think that you might've mentioned it in your "to do" section.
  - One thing I learned was that it can take so long for code to run! It makes sense since you have so much data to scrape, but over a day is really long.
 
-### visit (Michael):
-- Very smart using unicode to catch odd punctuation. I thought you also did a very good job filtering out unhelpful data (such as < 1 mb files).
-- One thing that wasn't very clear (at least to me) was what the raw xml files actually represented. Were they individual pages? A collection of pages? The entirety of wikipedia in that language? This could be made a little clearer in the markdown cells.
-- I didn't know that python loops had a continue statement, similar to break. After looking it up, it seems really helpful and I'm surprised I'd never heard of it! I also learned that Fiji Hindi is a thing (part of the languages excluded). Very neat.
+ ### visit (Lexy):
+ - You have such detailed and meticulous progress reports that is very easy to follow. Your findings in your data explanation file were so interesting. Your text chunking is really cool as well. Seems like a very interesting project so I can't wait to see the final product.
+ - The encoding issues are a bit concerning because they could potentially negatively influence your analysis, but it seems that this is on your to-do list.
+ - I learned that scraping this much data took this long and took up this much space. You definitely aren't afforded the luxury of procrastination so it is good that you are so organized!
