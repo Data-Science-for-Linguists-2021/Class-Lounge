@@ -11,3 +11,8 @@ Visit (Frances)
 - Your project is very well annotated and easy to follow through the comments.
 - I think you mentioned it, but cleaning the data could be a good idea (although from what you included it doesn’t look too bad, just some \n characters).
 - Interesting that Genius has its own package for lyrics!
+
+Visit(Emily)
+- This is a really interesting project and I look forward to the presentation! I am impressed how you worked around the roadblocks in collecting your data, I know from experience that can be a longer process than anticipated!
+- What tools will you be using to complete your analysis? Are the specific thematic representations and words they use something that is commonly ascribed to rap or will you make you own list? I know this is all to come but I am curious as to how exactly you are going to achieve your goal.
+- I learned about the importance of utilizing others code to further your own project. 
