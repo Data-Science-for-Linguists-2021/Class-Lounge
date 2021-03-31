@@ -16,3 +16,7 @@ Visit (Emma)
 Response:
 - Thanks for your response! I did end up cleaning the data (you're right, it makes it difficult to read). I didn't even think about building a scraper through command line, that's so neat!
 
+Visit (Sonia)
+- Your code is really easy to follow since you show plenty of samples of data structures and other objects as you're working with them. It's easy to just skim through and glance.
+- I was wondering, is there a way you're going to automatically label the works in your dataset for what era and genre they are? And similarly with metric conformity in the text as mentioned in your project plan. It might be time-consuming to do this manually unless you're just planning to pick a few examples.
+- For some reason I always imagined web crawling/scraping spiders as being really slow, so it was good/surprising to see yours only taking about 10 seconds.
