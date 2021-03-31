@@ -8,3 +8,8 @@ Visit (Frances)
 - The data seems to be really well transformed. The different categories you have in your dataframe seem very useful.
 - The different IDs are pretty messy looking, but definitely important since that seems to be the way each restaurant/reviewer is identified, do these correspond to actual names?
 - It’s very interesting how the longitude and latitude are recorded!
+
+Visit(Emily)
+- I am really interested to see what your findings are, I think it is a neat project. I like the way you built your dataframe and partitioned it, I think it looks neat and useful.
+- I would love to see some stats, although I am sure that is something you are still working on. Do certainly types of restaurants have mostly positive reviews? Are there some cities with simply terrible restaurants? Maybe that is just my curiousity but I think it would be neat to see!
+- I learned about chunking to take care of very large sets of data.
