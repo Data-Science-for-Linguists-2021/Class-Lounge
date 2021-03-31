@@ -15,4 +15,9 @@ Visit (Frances)
 Visit(Emily)
 - This is a really interesting project and I look forward to the presentation! I am impressed how you worked around the roadblocks in collecting your data, I know from experience that can be a longer process than anticipated!
 - What tools will you be using to complete your analysis? Are the specific thematic representations and words they use something that is commonly ascribed to rap or will you make you own list? I know this is all to come but I am curious as to how exactly you are going to achieve your goal.
-- I learned about the importance of utilizing others code to further your own project. 
+- I learned about the importance of utilizing others code to further your own project.
+
+Visit (Emma)
+- Your process markdown file was a really cool idea to show the way you went about collecting that data. I also really liked how thorough you were with your data collection, it was really clear how much you are interested in the analysis of your topic!
+- There still seems to be more you have to do to start your analysis, but you note that in your 10th log, so I’m sure you have that planned out!
+- pip install lyricsgenius
