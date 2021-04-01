@@ -15,3 +15,8 @@ Visit (Abby)
   - It seems like it's going to be very difficult to train a classifier on unlabeled data.
   - Beautiful soup is extremely versatile.  I've wasted a lot of time with my own web scraping by not using it.
     - Thanks for your comments! I certainly have come to appreciate beautiful soup a lot, and I would definitely recommend it as an option to anyone doing scraping.
+
+Visit (Michael)
+  - Your project plan file makes it very clear what the goals are of this project, and the project itself is just very well organized. I espeically appreciate how much effort went in to acquiring this data. I only had to scrape from one site and that was a handful. I imagine 4 sites must have been even more trying. 
+  - A couple of the JNB's (especially zeit.ipynb) throw a lot of text on the screen at once. This could stand to be cut down a bit (though I understand changing it might be a little difficult w/ how it's set up).
+  - I am very intrigued by lemmatizers and spaCy as a whole and am curious to see if they might help with my own analysis. 
