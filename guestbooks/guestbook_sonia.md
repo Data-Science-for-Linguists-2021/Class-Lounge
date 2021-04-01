@@ -17,6 +17,11 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
  - I learned that scraping this much data took this long and took up this much space. You definitely aren't afforded the luxury of procrastination so it is good that you are so organized!
  > Thanks! For a couple years I've wanted to do a project like this, so I'm really enjoying finally doing it. Unfortunately I've had to prioritize away from fixing the encoding display issue since it would be pretty difficult to figure out what's even causing it (browser, operating system, Jupyter, etc). Luckily the classifier and the writing anonymization still work as planned, so hopefully my analysis shouldn't be impacted
 
+### visit (Michael):
+ - Very smart using unicode to catch odd punctuation. I thought you also did a very good job filtering out unhelpful data (such as < 1 mb files).
+ - One thing that wasn't very clear (at least to me) was what the raw xml files actually represented. Were they individual pages? A collection of pages? The entirety of wikipedia in that language? This could be made a little clearer in the markdown cells.
+ - I didn't know that python loops had a continue statement, similar to break. After looking it up, it seems really helpful and I'm surprised I'd never heard of it! I also learned that Fiji Hindi is a thing (part of the languages excluded). Very neat.
+ 
  ---
 
  ## Visit round 2
