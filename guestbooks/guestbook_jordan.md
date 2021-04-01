@@ -13,3 +13,8 @@ Visit(Emily)
 - I am really interested to see what your findings are, I think it is a neat project. I like the way you built your dataframe and partitioned it, I think it looks neat and useful.
 - I would love to see some stats, although I am sure that is something you are still working on. Do certainly types of restaurants have mostly positive reviews? Are there some cities with simply terrible restaurants? Maybe that is just my curiousity but I think it would be neat to see!
 - I learned about chunking to take care of very large sets of data.
+
+Visit (Abby)
+- Data is very clean and easy to understand.  The repository isn't overcrowded.
+- I'm curious about the choice to not include city in the dataframe.  Like Emily said, it's important to compare all aspects of the restaurant/review.  If the goal is to do a cultural analysis of language, I think you need to compare both different restaurant types in the same city and the same restaurant type across different cities.
+- This: "sent1.append([i, list(df[df['review_id'] == i]['sents']), int(df[df['review_id'] == i]['stars']), str(df[df['review_id'] == i]['restaurant'].values[0])])" is the most complicated line of code I've ever seen in my limited experience with python.  I didn't know quite how versatile dataframe indexing could be.
