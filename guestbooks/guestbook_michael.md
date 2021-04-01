@@ -3,7 +3,7 @@ Ahoy! Welcome to Michael's term-project guestbook. Feel free to have a look at m
 
 ---
 
-### Section 1
+## Section 1
 
 ### visit (Frances):
  - One strength is your code. It is very neat and easy to follow along with, as well as effective considering your data output.
