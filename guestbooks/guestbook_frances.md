@@ -20,3 +20,8 @@ Visit (Sonia)
 - Your code is really easy to follow since you show plenty of samples of data structures and other objects as you're working with them. It's easy to just skim through and glance.
 - I was wondering, is there a way you're going to automatically label the works in your dataset for what era and genre they are? And similarly with metric conformity in the text as mentioned in your project plan. It might be time-consuming to do this manually unless you're just planning to pick a few examples.
 - For some reason I always imagined web crawling/scraping spiders as being really slow, so it was good/surprising to see yours only taking about 10 seconds.
+
+Visit (Abby)
+- Your overall plan/idea is extremely precise and pointed (get it??).  I think by focusing on one word (or synset, since there are 5 separate words for it), you'll be able to draw some very interesting and definitive conclusions from the data.
+- I'm a little confused by the choice to do dataframe index separated by a "|" for each declension.  Wouldn't it save a lot of typing to use for-looping and dictionaries? 
+- I had no idea that a "|" is just an "or" operator".  I'm sure I learned it at one point, then forgot it somewhere along the way. 
