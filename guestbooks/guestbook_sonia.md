@@ -25,3 +25,8 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
  ---
 
  ## Visit round 2
+ 
+ ### visit (Jordan)
+ - Anonymyzing the writing systems is a great idea, without that there could be overfitting. I bet I would have missed this. 
+ - This is less of a critique and more of a question, do you think there's a chance that punctuation could actually improve accuracy, as different languages have different conventions for punctuation? Of course, symbols like the upside down question mark are only used in a few languages and clearing out symbols like this might not be worth the performance increase.
+ - CountVectorizer seems to be a good thing to use when dealing with a massive amount of data like this, it seems more computationally efficient.
