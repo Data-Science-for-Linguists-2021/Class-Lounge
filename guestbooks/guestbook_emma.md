@@ -21,12 +21,15 @@
 	this in my own data by using regex to substitue an empty value for the unwanted string. strip() is much easier.
 
 ### Visit (Sonia)
+> Thank you for visiting my guestbook and project, Sonia! Your suggestion on working with the analysis was super helpful, I didn’t know about that concept, but it makes a lot of sense!
 
 - This topic is really interesting; exctracting very different most common words or building classifiers that achieve high accuracy would really highlight how different the two parties are. Also I like how you're looking at rhetoric from different samples for different audiences, that's really going to help the analysis be pretty comprehensive.
 - Just a suggestion going forwards, I would think to try completing all the technical aspect of the analysis for just one of the mediums/datasets to begin with. If there's an issue at the very last step of analysis, you then have a month to fix it rather than a week. Then, doing the analysis with the other datasets is similar and should be easier or less overwhelming. This comes from a software engineering concept called "minimum viable product", where you try to get something rough but complete to show for your efforts and then you can go back and add in lots later.
 - I've got pretty informal knowledge of politics, so I never knew the parties have literal "Party Platforms" out there spelling out their stance.
 
 ### Visit (Michael)
+> Thank you, Michael, for your comments! I’m glad you find the concept of my project intriguing, and I’m grateful for your suggestion to include an additional notebook for major findings!
+
 - It seems like you have plenty of data for your analysis, and I like how you organize the analyses into different notebooks. Overall, this seems like a very intriguing concept with some potential real-world applicability!
-- I might recommend, for the presentation portion, adding an additional notebook to summarize the major findings from each analysis and (potentially) draw some larger conclusions. 
-- I learned that nltk has a customizable regex tokenizer, which seems like it could be very helpful for my own project. 
+- I might recommend, for the presentation portion, adding an additional notebook to summarize the major findings from each analysis and (potentially) draw some larger conclusions.
+- I learned that nltk has a customizable regex tokenizer, which seems like it could be very helpful for my own project.
