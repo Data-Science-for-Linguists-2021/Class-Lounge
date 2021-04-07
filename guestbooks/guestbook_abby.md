@@ -8,7 +8,7 @@ Visit (Sonia)
 
 Visit (Michael)
 - I can tell you've put a lot of effort into customizing spiders to get data from a bunch of different sources, which I think will really pay off in the analysis portion!
-- There's a lot going on in the spiders folder. If possible, I recommend running the spiders on your personal computer, converting the output to dataframes as part of the script, and saving said dfs as one or more csv files. Then, load up all the files and clean them all in a single jupyter notebook. This removes the need to define + run every spider in jupyter itself, which seems to flash a lot of text. 
+- There's a lot going on in the spiders folder. If possible, I recommend running the spiders on your personal computer, converting the output to dataframes as part of the script, and saving said dfs as one or more csv files. Then, load up all the files and clean them all in a single jupyter notebook. This removes the need to define + run every spider in jupyter itself, which seems to flash a lot of text.
 - I like that your data includes the date of the podcast. I might implement the same in my own spider + analysis
 	- Reply: Thanks for your comments!  The spider folder organization is a good idea.  I initally tried to make the data into csv files, but they never loaded correctly.  Now that I have all the transcript text I can get, I'm going to cat the dataframes into one giant dataframe and add /spiders to .gitignore.
 
@@ -16,3 +16,8 @@ Visit (Frances):
 - You seem to have a wide variety of podcasts/types which is definitely a strength.
 - Do you plan on inputting the years for This American Life?
 - You say you’re going to scrape from pdfs which is very interesting, I wasn’t aware you could do that!
+
+Visit (Emma):
+- After reading your progress report, it seems like you know what you want to do next for your analysis portion, so that’s good! I think it’ll be really cool to see then end result of your project!
+- Like I said, you seem to have a good analysis idea set up, so this might be too much, but if you had time, I think it’d be pretty cool if you tried to see if a classifier could predict whether a certain podcast is a comedy, or an educational, and maybe what words were heavy indicators!
+-  I don’t listen to podcasts, so I was surprised at how many categories there are!
