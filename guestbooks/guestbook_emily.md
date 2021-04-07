@@ -20,3 +20,8 @@ Visit (Michael)
   - Your project plan file makes it very clear what the goals are of this project, and the project itself is just very well organized. I espeically appreciate how much effort went in to acquiring this data. I only had to scrape from one site and that was a handful. I imagine 4 sites must have been even more trying. 
   - A couple of the JNB's (especially zeit.ipynb) throw a lot of text on the screen at once. This could stand to be cut down a bit (though I understand changing it might be a little difficult w/ how it's set up).
   - I am very intrigued by lemmatizers and spaCy as a whole and am curious to see if they might help with my own analysis. 
+
+Visit (Frances)
+  - Your presentation jnb is really well organized and it’s cool to see you using spacy (since we just talked about it in class)!
+  - While it’s probably useful for you to help visualize there’s a lot of text returned/printed out on the screen that takes up space.
+  - The lemmatizer is so cool! It looks super useful and I might try and use it in my project too.
