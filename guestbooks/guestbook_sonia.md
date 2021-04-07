@@ -21,12 +21,17 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
  - Very smart using unicode to catch odd punctuation. I thought you also did a very good job filtering out unhelpful data (such as < 1 mb files).
  - One thing that wasn't very clear (at least to me) was what the raw xml files actually represented. Were they individual pages? A collection of pages? The entirety of wikipedia in that language? This could be made a little clearer in the markdown cells.
  - I didn't know that python loops had a continue statement, similar to break. After looking it up, it seems really helpful and I'm surprised I'd never heard of it! I also learned that Fiji Hindi is a thing (part of the languages excluded). Very neat.
- 
+
  ---
 
  ## Visit round 2
- 
+
  ### visit (Jordan)
- - Anonymyzing the writing systems is a great idea, without that there could be overfitting. I bet I would have missed this. 
+ - Anonymyzing the writing systems is a great idea, without that there could be overfitting. I bet I would have missed this.
  - This is less of a critique and more of a question, do you think there's a chance that punctuation could actually improve accuracy, as different languages have different conventions for punctuation? Of course, symbols like the upside down question mark are only used in a few languages and clearing out symbols like this might not be worth the performance increase.
  - CountVectorizer seems to be a good thing to use when dealing with a massive amount of data like this, it seems more computationally efficient.
+
+ ### visit (Emily)
+ - I really love the idea of your project and I am really impressed at the amount of data you are working with and what you have accomplished with it so far! I like how much explanation you give, that made everything very easy to follow.
+ - Hard to find a critique! My only thing would be, and I am sure you will do more towards this before the presentation, but the current presentation could probably benefit from some more (and larger) plots. Because there are so many languages, as you going to do some separate plots on subsections of data?
+ - I learned more about handling big data as well as dealing with different writing systems, very cool!
