@@ -9,7 +9,7 @@ Ahoy! Welcome to Michael's term-project guestbook. Feel free to have a look at m
  - One strength is your code. It is very neat and easy to follow along with, as well as effective considering your data output.
  - One thing to improve is scraping reviews from more books.
  - One interesting thing that you pointed out in your code is how Goodreads labels their reviews not numerically, but with certain phrases in their html.
- > Hi Frances, thanks for your input! Goodreads in general is a very strange website with some... interesting design choices. I talk a little more about it in my updated JNB. I have also increased the amount of books scraped from 2 to 32. 
+ > Hi Frances, thanks for your input! Goodreads in general is a very strange website with some... interesting design choices. I talk a little more about it in my updated JNB. I have also increased the amount of books scraped from 2 to 32.
 
 ### visit (Jordan):
  - Seems like you have a good base for your project here, I really liked the multi-indexing you did to keep reviews of one book together, and you seem to have done a good job web scraping.
@@ -31,3 +31,8 @@ Ahoy! Welcome to Michael's term-project guestbook. Feel free to have a look at m
 - Your analysis notebook was super easy to follow, especially thanks to the opening commentary. I also really liked how you showed examples of the data frame, it really gave a good perspective into the data.
 - I’m glad you touched on the 2,3, and 4 star reviews in terms of the negative and positive reviews, and it’ll be interesting to see how you take that further! (If 3 is truly a more neutral review, why does the classifier decide they are negative or positive?)
 - Sentiment analysis!!! I’m considering doing something similar for my own project, so this was great to see how someone else is going about that!!!
+
+### visit (Emily)
+- I like the organization a lot, and I think the way you built your dataframes is informative and clear; as is the analysis section. I agree that the opening commentary was helpful and set the reader up to understand what you did.
+- I wonder if your method for classifying sentiment the way you did is the best approach. I say that without quite enough knowledge to make it a full critique but I am curious.
+- Wow, your scraping script looks like it was super labor intensive. As someone who also had to scrape a lot of data but used a different method I learned a lot from your approach.
