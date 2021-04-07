@@ -35,3 +35,8 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
  - I really love the idea of your project and I am really impressed at the amount of data you are working with and what you have accomplished with it so far! I like how much explanation you give, that made everything very easy to follow.
  - Hard to find a critique! My only thing would be, and I am sure you will do more towards this before the presentation, but the current presentation could probably benefit from some more (and larger) plots. Because there are so many languages, as you going to do some separate plots on subsections of data?
  - I learned more about handling big data as well as dealing with different writing systems, very cool!
+
+### visit (Emma)
+- It looks to me that you’ve got a majority of your project worked out, which is great! I also think your project idea is cool, in general! This is something we’e seen in class a little bit, but I like how you included the part where you want to analyze which languages make the classifier confused and why. Your data explanation notebook was also helpful.
+- There were a lot of different files in the project repository, so it might just be easier to look at if maybe there were folders for different categories of files.
+- clustering on confusion matrix
