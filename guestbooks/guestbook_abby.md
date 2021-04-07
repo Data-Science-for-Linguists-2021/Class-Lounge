@@ -11,3 +11,8 @@ Visit (Michael)
 - There's a lot going on in the spiders folder. If possible, I recommend running the spiders on your personal computer, converting the output to dataframes as part of the script, and saving said dfs as one or more csv files. Then, load up all the files and clean them all in a single jupyter notebook. This removes the need to define + run every spider in jupyter itself, which seems to flash a lot of text. 
 - I like that your data includes the date of the podcast. I might implement the same in my own spider + analysis
 	- Reply: Thanks for your comments!  The spider folder organization is a good idea.  I initally tried to make the data into csv files, but they never loaded correctly.  Now that I have all the transcript text I can get, I'm going to cat the dataframes into one giant dataframe and add /spiders to .gitignore.
+
+Visit (Frances):
+- You seem to have a wide variety of podcasts/types which is definitely a strength.
+- Do you plan on inputting the years for This American Life?
+- You say you’re going to scrape from pdfs which is very interesting, I wasn’t aware you could do that!
