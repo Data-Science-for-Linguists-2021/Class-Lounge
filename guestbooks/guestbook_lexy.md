@@ -21,3 +21,8 @@ Visit (Emma)
 - Your process markdown file was a really cool idea to show the way you went about collecting that data. I also really liked how thorough you were with your data collection, it was really clear how much you are interested in the analysis of your topic!
 - There still seems to be more you have to do to start your analysis, but you note that in your 10th log, so I’m sure you have that planned out!
 - pip install lyricsgenius
+
+Visit (Abby)
+- This project is a very interesting exercise in sociolinguistics.  I absolutely love the title and concept.
+- Is lyricsgenuis able to scrape other data?  In the project plan, you mentioned comparing lyrical topics by year, and I think that was a great idea (but I very much understand if plans had to be scrapped once the project actually got going).  Since male versus female is a data point you already have, it would be interesting to do statistical comparison of male versus female topics.
+- As Emily mentioned, building from others' work is extremely helpful.  There's a lot of already-written code out there!
