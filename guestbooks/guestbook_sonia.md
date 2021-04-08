@@ -22,7 +22,7 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
  - One thing that wasn't very clear (at least to me) was what the raw xml files actually represented. Were they individual pages? A collection of pages? The entirety of wikipedia in that language? This could be made a little clearer in the markdown cells.
  - I didn't know that python loops had a continue statement, similar to break. After looking it up, it seems really helpful and I'm surprised I'd never heard of it! I also learned that Fiji Hindi is a thing (part of the languages excluded). Very neat.
 
- ---
+---
 
 ## Visit round 2
 
@@ -31,6 +31,10 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
  - This is less of a critique and more of a question, do you think there's a chance that punctuation could actually improve accuracy, as different languages have different conventions for punctuation? Of course, symbols like the upside down question mark are only used in a few languages and clearing out symbols like this might not be worth the performance increase.
  - CountVectorizer seems to be a good thing to use when dealing with a massive amount of data like this, it seems more computationally efficient.
  > The reason I got rid punctuation it is it's hard to distinguish automatically between punctuation being used correctly in the article text and punctuation left over from the HTML or XML formatting that was making the data messy. But yes, probably punctuation would help if I were aiming for more accuracy.
+
+---
+
+## Visit round 3
 
 ### visit (Emily)
  - I really love the idea of your project and I am really impressed at the amount of data you are working with and what you have accomplished with it so far! I like how much explanation you give, that made everything very easy to follow.
@@ -43,7 +47,3 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
 - There were a lot of different files in the project repository, so it might just be easier to look at if maybe there were folders for different categories of files.
 - clustering on confusion matrix
 > Thanks, I knew the classifier was going to be confusing related languages when I started the project, so I really wanted to take advantage of that to see what makes languages "related" - preliminary results suggesting geographical relatedness > ancestral relatedness!
-
- ---
-
-## Visit round 3
