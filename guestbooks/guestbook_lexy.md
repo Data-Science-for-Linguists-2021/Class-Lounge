@@ -26,3 +26,8 @@ Visit (Abby)
 - This project is a very interesting exercise in sociolinguistics.  I absolutely love the title and concept.
 - Is lyricsgenuis able to scrape other data?  In the project plan, you mentioned comparing lyrical topics by year, and I think that was a great idea (but I very much understand if plans had to be scrapped once the project actually got going).  Since male versus female is a data point you already have, it would be interesting to do statistical comparison of male versus female topics.
 - As Emily mentioned, building from others' work is extremely helpful.  There's a lot of already-written code out there!
+
+Visit (Sonia)
+- It's a very interesting project and I like how well-documented you are about it, especially in the progress reports and frequent log entries
+- I don't have much critique so really a nitpick: in lyrical_data_analysis.ipynb, lines 3 and 4 of the dataframe at the bottom look to be nearly the same song (maybe a remix)? I wasn't sure if this was a common issue or not in the data but maybe something to look into if you have time
+- I didn't know reading from a file could be so difficult, glad you were able to figure it out! 
