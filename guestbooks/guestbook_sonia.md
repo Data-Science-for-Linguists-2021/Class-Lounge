@@ -24,19 +24,26 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
 
  ---
 
- ## Visit round 2
+## Visit round 2
 
- ### visit (Jordan)
+### visit (Jordan)
  - Anonymyzing the writing systems is a great idea, without that there could be overfitting. I bet I would have missed this.
  - This is less of a critique and more of a question, do you think there's a chance that punctuation could actually improve accuracy, as different languages have different conventions for punctuation? Of course, symbols like the upside down question mark are only used in a few languages and clearing out symbols like this might not be worth the performance increase.
  - CountVectorizer seems to be a good thing to use when dealing with a massive amount of data like this, it seems more computationally efficient.
+ > The reason I got rid punctuation it is it's hard to distinguish automatically between punctuation being used correctly in the article text and punctuation left over from the HTML or XML formatting that was making the data messy. But yes, probably punctuation would help if I were aiming for more accuracy.
 
- ### visit (Emily)
+### visit (Emily)
  - I really love the idea of your project and I am really impressed at the amount of data you are working with and what you have accomplished with it so far! I like how much explanation you give, that made everything very easy to follow.
  - Hard to find a critique! My only thing would be, and I am sure you will do more towards this before the presentation, but the current presentation could probably benefit from some more (and larger) plots. Because there are so many languages, as you going to do some separate plots on subsections of data?
  - I learned more about handling big data as well as dealing with different writing systems, very cool!
+ > Plots are deffinitely my weakest point as far as readable code or data science. I like your idea, maybe I could make subplots that just focus on individual clusters of languages so people will be able to read them.
 
 ### visit (Emma)
 - It looks to me that you’ve got a majority of your project worked out, which is great! I also think your project idea is cool, in general! This is something we’e seen in class a little bit, but I like how you included the part where you want to analyze which languages make the classifier confused and why. Your data explanation notebook was also helpful.
 - There were a lot of different files in the project repository, so it might just be easier to look at if maybe there were folders for different categories of files.
 - clustering on confusion matrix
+> Thanks, I knew the classifier was going to be confusing related languages when I started the project, so I really wanted to take advantage of that to see what makes languages "related" - preliminary results suggesting geographical relatedness > ancestral relatedness!
+
+ ---
+
+## Visit round 3
