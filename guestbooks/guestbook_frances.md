@@ -28,3 +28,8 @@ Visit (Abby)
 - I had no idea that a "|" is just an "or" operator".  I'm sure I learned it at one point, then forgot it somewhere along the way. 
 Response:
 - Thanks for your comments! For-looping probably would be less time consuming but I just chose to use the | because I remembered it from doing regular expressions.
+
+Visit (Michael)
+- I like how specific this project is. It makes everything very easy to follow as it is very clear what the data is, what is being looked at, and what the analysis will cover. Good job!
+- I'm a little confused why ne_df is seperate from latlib_df, as it seems to contain some relevant info for a text. I recommend combining those, though it might mean altering the spyder a touch.
+- I can appreciate the effort put in to capture all the declensions in the text as that seems like a nightmare to deal with!
