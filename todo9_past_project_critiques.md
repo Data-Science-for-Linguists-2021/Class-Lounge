@@ -1,4 +1,4 @@
-# To-do 10: Past Project Critiques
+# To-do 9: Past Project Critiques
 
 ## Na-Rae the fake student
 - Project 1: [Document Clustering](https://github.com/Data-Science-for-Linguists/Document_Clustering) by Dan Zheng

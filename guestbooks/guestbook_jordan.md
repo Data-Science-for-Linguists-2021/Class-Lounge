@@ -31,3 +31,10 @@ Visit (Sonia)
 - It's a really interesting topic and I'm curious what you come up with. I'm also looking forward to seeing how you approach the classifier step.
 - In progress report 2 you seem to say that if you choose a license for your code, you'll be required to use that license for the Yelp data too. Actually, you are allowed to have difference licenses for your code and your data, according to one of the [resources](https://choosealicense.com/non-software/) Na-Rae had linked to. I ended up doing that for my project too!
 - It was good seeing chunking applied in a 'real-life' example
+
+Visit (Michael)
+- I like that you combined the business and review datasets from Yelp. I actually mentioned in HW4 that I would be interested to see how those two could be combined to make better classifiers, so I'm glad to see you've done just that, and I'm very excited to see where this goes!
+- I think a little more commentary in the analysis notebook about how you're transforming & analyzing the data would go aa long way.
+- Big fan of this line of code:
+		df = df.groupby('restaurant').apply(lambda x: x.sample(600)).reset_index(drop=True)
+  It's a very elegant solution to uneven data. I didn't even know you could combine groupby + apply like that but it looks super useful!
