@@ -33,3 +33,8 @@
 - It seems like you have plenty of data for your analysis, and I like how you organize the analyses into different notebooks. Overall, this seems like a very intriguing concept with some potential real-world applicability!
 - I might recommend, for the presentation portion, adding an additional notebook to summarize the major findings from each analysis and (potentially) draw some larger conclusions.
 - I learned that nltk has a customizable regex tokenizer, which seems like it could be very helpful for my own project.
+
+### Visit (Frances)
+- It’s really great how you used a few different ML models and toggled the features.
+- This isn’t exactly a problem, but I’m curious about what the purpose of the random “neutral” category is (the “yo”).
+- The top words (especially from the debate section) were really interesting to see, and weird that “republican” was one of the top words used by the Democratic side!
