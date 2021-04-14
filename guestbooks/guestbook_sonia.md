@@ -47,3 +47,12 @@ Welcome! Some quick links are to the [progress report](https://github.com/Data-S
 - There were a lot of different files in the project repository, so it might just be easier to look at if maybe there were folders for different categories of files.
 - clustering on confusion matrix
 > Thanks, I knew the classifier was going to be confusing related languages when I started the project, so I really wanted to take advantage of that to see what makes languages "related" - preliminary results suggesting geographical relatedness > ancestral relatedness!
+
+---
+
+## Visit Round 4
+
+### visit (Abby)
+- I like that you thought to do something with a real-world application that could actually have a positive impact for speakers of less-common languages.  I also really liked your thinking-outside-the-box solution for creating data chunks in using a borrowed computer and letting it chug away while you live your life.  Very clever!
+- The only criticism I can find is kind of a non-issue, since you will likely explain it all in the final report/presentation.  The gigantic list of language labels came up pretty frequently and interrupted the flow of the ipynb, but I was mostly curious as to what the tags correspond to (except for the small sample in data-explanation.ipynb).
+- That networking setup where you let the other computer handle the processing is like sorcery (or witchcraft, whichever term you prefer) to me.  I've read all the code and human-explanation several times and I still don't understand what's happening.
