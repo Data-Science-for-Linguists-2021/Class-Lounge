@@ -37,3 +37,8 @@ Visit (Sonia)
 - I don't have much critique so really a nitpick: in lyrical_data_analysis.ipynb, lines 3 and 4 of the dataframe at the bottom look to be nearly the same song (maybe a remix)? I wasn't sure if this was a common issue or not in the data but maybe something to look into if you have time
 - I didn't know reading from a file could be so difficult, glad you were able to figure it out!
 > Once I figure out how to populate the darn dataframes themselves, I will try my best to filter out repeat information. Not sure how I will do that yet. There are a lot of things I will need to filter out such as 'Skits' or 'Interludes'.
+
+Visit pt.2 (Frances)
+- Your data collection is great and your log is super updated which made it easy to see your progress!
+- It sounds like you have your data mostly ready to go for analysis, and so you might be doing this once it’s cleaned, but are you going to include more stats like token count (unless that’s not relevant to your analysis lol).
+- It’s interesting that the lyrics for different artists are all stored in different json files.
