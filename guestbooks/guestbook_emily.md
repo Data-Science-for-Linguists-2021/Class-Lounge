@@ -27,3 +27,9 @@ Visit (Frances)
   - While it’s probably useful for you to help visualize there’s a lot of text returned/printed out on the screen that takes up space.
   - The lemmatizer is so cool! It looks super useful and I might try and use it in my project too.
       - Thanks for stopping by! The lemmatizer is definitely very cool and I had a lot of fun feeding it different verb forms :)
+
+
+Visit (Abby again)
+  - Very nice and easy-to-understand charts in your main jupyter notebook
+  - You wrote that you're pretty sure that the most useful feature, "flüchtling", isn't negative even though your classifier "thinks" it is.  Since it's the most useful feature, see if you can do a little research and see what German citizens say.  That seems like something you'd want to be sure about.
+  - I've never seen *pass* in python before.  
