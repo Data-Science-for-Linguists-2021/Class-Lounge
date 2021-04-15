@@ -35,6 +35,8 @@
 - I learned that nltk has a customizable regex tokenizer, which seems like it could be very helpful for my own project.
 
 ### Visit (Frances)
+> Thank you for visiting my project, Frances! I found the top words pretty interesting, as well, so it was nice to see you shared in that! The neutral category was something that I added purely out of curiosity to see what the top features would be without doing any super complex computing to be honest!
+
 - It’s really great how you used a few different ML models and toggled the features.
 - This isn’t exactly a problem, but I’m curious about what the purpose of the random “neutral” category is (the “yo”).
 - The top words (especially from the debate section) were really interesting to see, and weird that “republican” was one of the top words used by the Democratic side!
