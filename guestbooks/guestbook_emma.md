@@ -40,3 +40,8 @@
 - It’s really great how you used a few different ML models and toggled the features.
 - This isn’t exactly a problem, but I’m curious about what the purpose of the random “neutral” category is (the “yo”).
 - The top words (especially from the debate section) were really interesting to see, and weird that “republican” was one of the top words used by the Democratic side!
+
+### Visit (Emily)(again)
+- It is really cool to see how far you've come since I stopped by at the beginning of 'visit your classmates', I am really impressed! I enjoyed looking at all the analysis you've managed to do.
+- I don't see too much to suggest, because it seems you have a good idea of future steps. I did have to jump back and forth a few times between the analysis notebooks to try and see differences and trends between them, so I wonder if having a summary of the findings would be helpful.
+- I learned that debates are harder to predict than speeches, I think that is really interesting because they are using more similar language when they are debating together and then different language when they are speaking to just/mostly their followers.
