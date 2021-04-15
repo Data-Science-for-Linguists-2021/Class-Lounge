@@ -22,4 +22,9 @@ Visit (Emma):
 - After reading your progress report, it seems like you know what you want to do next for your analysis portion, so that’s good! I think it’ll be really cool to see then end result of your project!
 - Like I said, you seem to have a good analysis idea set up, so this might be too much, but if you had time, I think it’d be pretty cool if you tried to see if a classifier could predict whether a certain podcast is a comedy, or an educational, and maybe what words were heavy indicators!
 -  I don’t listen to podcasts, so I was surprised at how many categories there are!
-	- Your suggestion is actually part of my plan!  Sorry if I didn't make that perfectly clear.  I'll include trying to win over non-podcast-listeners to the podcast-listener lifestyle as part of my presentation. 
+	- Your suggestion is actually part of my plan!  Sorry if I didn't make that perfectly clear.  I'll include trying to win over non-podcast-listeners to the podcast-listener lifestyle as part of my presentation.
+
+Visit (Emily)
+- You definitely did a lot of work with customizing spiders which is impressive and I also liked the level of linguistic analysis you added to your dataframes - different POS frequencies, top bigrams, lemmas, etc.
+- Maybe this is just a personal thing, but I think a few more comments would have made your data notebook a little easier to follow.
+- I only just started realizing how useful defining custom functions is, so I liked looking at all, and learned a lot from, the ones you made.
