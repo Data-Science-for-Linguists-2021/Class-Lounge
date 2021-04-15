@@ -40,3 +40,8 @@ Visit (Emma)
   - I really don’t have anything to say here, but it looks like you still have some ideas for future analyzing which will be cool to see! Also, I see in the progress report that there might be confusion in the sentiment scores about negativity, but you have obviously recognized that, so it’ll be interesting to see how you work with that!
   - scraping for specific terms, a little bit of German :), more about SpaCy
       - Thanks for visiting! There are definitely some things that need to be tweaked, but I am hoping to clear those up soon:)
+
+Visit (Sonia again)
+  - You have a lot of ideas of questions to try out for the analysis, I especially liked the graph for the one news source that showed the evolution of their negativity/positivity rates over time. Will be good when you've got that for the other sources too to compare.
+  - Maybe using articles as the level of the sentiment analysis isn't fine grained enough especially given the smaller size of your dataset, so maybe (if you were to keep going with this project lol) it would be valuable to do sentiment analysis at the sentence or paragraph level. Maybe if the two terms are used in different paragraphs of the same article, it would be a good point of comparison as to what sentiment or other conditions led to the choice of one over the other.
+  - I wonder if it's just coincidence that the more right-leaning sources tended to have more restrictive data policies, not offering an API or generally not being data science-friendly. Probably would need more sources to determine that and it isn't directly related to your project, but now I'm curious if there's a pattern there
