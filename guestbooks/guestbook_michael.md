@@ -35,7 +35,7 @@ Ahoy! Welcome to Michael's term-project guestbook. Feel free to have a look at m
 - I like the organization a lot, and I think the way you built your dataframes is informative and clear; as is the analysis section. I agree that the opening commentary was helpful and set the reader up to understand what you did.
 - I wonder if your method for classifying sentiment the way you did is the best approach. I say that without quite enough knowledge to make it a full critique but I am curious.
 - Wow, your scraping script looks like it was super labor intensive. As someone who also had to scrape a lot of data but used a different method I learned a lot from your approach.
-> Thanks for the review Emily! Indeed, my approach to classification at the moment is *very* quick and dirty. I plan to update that section extensively for the next progress report, incorporating some of the techniques we have learned in class over the last couple of weeks. 
+> Thanks for the review Emily! Indeed, my approach to classification at the moment is *very* quick and dirty. I plan to update that section extensively for the next progress report, incorporating some of the techniques we have learned in class over the last couple of weeks.
 
 ### visit (Abby):
 - Thank you for the extremely reader-friendly Jupyter Notebook and analysis.  I'm interested to see what the results are -- I've heard it said before that good reviews generally focus on the actual content of the thing (i.e. "In this book, character 1 did this thing in this place", "This restaurant served this dish and had such-and-such an atmosphere") while negative reviews focus on personal experience (i.e. "I read this book on a Greyhound bus to such-and-such a city during the Fall of 2018", "We stayed in this hotel for a destination wedding for my aunt's brother's coworker's son and we were really looking forward to it").  This project has the potential to prove or disprove whether or not that's true.
@@ -43,3 +43,8 @@ Ahoy! Welcome to Michael's term-project guestbook. Feel free to have a look at m
 - I didn't realize you could extract the NB's most useful features with vocabulary_.keys() - that will be helpful.  I also learned that Twilight is classified as a fantasy series . . .
 > Thanks Abby. Glad to hear you liked it! I'm very intrigued by this idea of negative reviews focusing more on personal experience. It makes a ton of sense so I'll be sure to take a look at the data and see what I can find!
 (As for Twilight: don't forget that old vampire stores like Dracula paved the way for the development of the modern fantasy genre. The two go hand-in-hand!)
+
+### visit (Emma pt.2):
+- I really liked seeing how your analysis since my last visit! I also seeing how thorough you were with the grid searching and the multiple ml models. That “yeehaw” comment also resonated quite a bit.
+- Your analysis looks really interesting, and I’m excited to hear more about about the rest of your To-Dos (especially the differences between positive and negative reviews)!
+- from string import punctuation !!!
