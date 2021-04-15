@@ -33,3 +33,8 @@ Visit (Abby again)
   - Very nice and easy-to-understand charts in your main jupyter notebook
   - You wrote that you're pretty sure that the most useful feature, "flüchtling", isn't negative even though your classifier "thinks" it is.  Since it's the most useful feature, see if you can do a little research and see what German citizens say.  That seems like something you'd want to be sure about.
   - I've never seen *pass* in python before.  
+
+Visit (Emma)
+  - Your topic idea is honestly so interesting, and I’m really looking forward to your presentation and final analysis! You also knew tons of information about the topic, which really helped.
+  - I really don’t have anything to say here, but it looks like you still have some ideas for future analyzing which will be cool to see! Also, I see in the progress report that there might be confusion in the sentiment scores about negativity, but you have obviously recognized that, so it’ll be interesting to see how you work with that!
+  - scraping for specific terms, a little bit of German :), more about SpaCy
