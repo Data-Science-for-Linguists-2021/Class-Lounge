@@ -48,3 +48,9 @@ Ahoy! Welcome to Michael's term-project guestbook. Feel free to have a look at m
 - I really liked seeing how your analysis since my last visit! I also seeing how thorough you were with the grid searching and the multiple ml models. That “yeehaw” comment also resonated quite a bit.
 - Your analysis looks really interesting, and I’m excited to hear more about about the rest of your To-Dos (especially the differences between positive and negative reviews)!
 - from string import punctuation !!!
+
+### visit (Sonia)
+
+- The code is extremely readable, it's clear you formatted things with the reader in mind. When I clean code I tend to go more for what's readable to me then what's readable to some other person, so good job with that.
+- No real critiques, I'm just curious what originally gave you the idea to do this project.
+- It was interesting to see how the repository looks when you remove a part of the commit history, really seems like it's not possible to tell that that happened
