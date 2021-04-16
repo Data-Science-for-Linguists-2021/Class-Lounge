@@ -28,3 +28,8 @@ Visit (Emily)
 - You definitely did a lot of work with customizing spiders which is impressive and I also liked the level of linguistic analysis you added to your dataframes - different POS frequencies, top bigrams, lemmas, etc.
 - Maybe this is just a personal thing, but I think a few more comments would have made your data notebook a little easier to follow.
 - I only just started realizing how useful defining custom functions is, so I liked looking at all, and learned a lot from, the ones you made.
+
+Visit (Michael again)
+- Everything looks much improved since I last visited. It is very easy to tell what everything is and it looks like you've put a lot of effort into cleaning/organzing your dataframes!
+- I think it would be helpful to get a few more looks at the dataframe as more data is added on to it. At a certain point, enough new columns are added on that between one preview and the next, some of the middle columns get dropped. Ultimately not a big deal, but I think it makes it easier to visualize what's being added. 
+- Got to say, I completely forgot about google kbands! If I have time, I'll probaably try implementing that in my own analysis to see what it can tell me about my own data.
