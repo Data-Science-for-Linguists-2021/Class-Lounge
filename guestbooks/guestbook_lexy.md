@@ -42,9 +42,10 @@ Visit pt.2 (Frances)
 - Your data collection is great and your log is super updated which made it easy to see your progress!
 - It sounds like you have your data mostly ready to go for analysis, and so you might be doing this once it’s cleaned, but are you going to include more stats like token count (unless that’s not relevant to your analysis lol).
 - It’s interesting that the lyrics for different artists are all stored in different json files.
-> Thank you, Frances! I will be doing this once it has been adequately cleaned. Hopefully that won't take as long to do so I can finally start doing some basic stats then start doing the LDA analysis and the word clouds. 
+> Thank you, Frances! I will be doing this once it has been adequately cleaned. Hopefully that won't take as long to do so I can finally start doing some basic stats then start doing the LDA analysis and the word clouds.
 
 Visit (Michael)
 - Your analysis notebook is incredibly well documented and easy to follow! I also appreciated that you included the process by which you gathered reviews so that others could do the same.
 - Not really much to say in the way of critiques. It could perhaps be a little clearer, either in the analysis notebook or in README.md, where the code that was used to scrape the reviews came from.
-- From the quick glance I took at the API client, it looked pretty interesting. 
+- From the quick glance I took at the API client, it looked pretty interesting.
+> Thank you, Michael! I'm glad it was easy to follow. Thank you for the suggestion, I didn't realize that I didn't include this information. I'm hoping to fine tune my `README.md` and the other documents today or tomorrow.
